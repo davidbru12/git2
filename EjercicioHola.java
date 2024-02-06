@@ -41,5 +41,5 @@ public class EjercicioHola {
             System.out.println("s1=s4");
         }
     }
-    //Comentario sobre lo bueno que soy haciendo esto papa
+    //Este es el ejercicio Hola sobre los metodos para comparar String
 }
