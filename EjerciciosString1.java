@@ -17,6 +17,7 @@ public class EjerciciosString1 {
         System.out.println(prueba);
         prueba = prueba + ". Podemos añadir mas texto" + saludo2;
         System.out.println(prueba);
+        //Hola es un ejercicio para entender los String
     }
 
 }
